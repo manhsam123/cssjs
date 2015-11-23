@@ -1,6 +1,6 @@
 
       //<![CDATA[
-	 var url_popup = 'http://bit.ly/1KmPNYe';
+	 var url_popup = 'http://goo.gl/LmMhgX';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
@@ -34,5 +34,5 @@
       //]]>
 	/*
 	var url_popup = 'http://giaiphapthuonghieu.vn';
-	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
+	<script src="https://rawgithubusercontent.com/manhsam123/cssjs/master/popmoiduoi.js"></script>
 	*/
