@@ -1,1 +1,24 @@
 
+
+<script language='javascript'>
+    var f_chat_vs = &quot;Version 2.1&quot;;
+    var f_chat_domain =  &quot;http:\/\/faceseo.vn&quot;;    
+    var f_chat_name = &quot;Hỗ TRỢ TƯ VẤN BĐS&quot;;
+    var f_chat_star_1 = &quot;Chào bạn!&quot;;
+    var f_chat_star_2 = &quot;Bạn cần hỗ trợ tư vấn BĐS&quot;;
+    var f_chat_star_3 = &quot;<a href='javascript:;' id='f_bt_start_chat' onclick='f_bt_start_chat()'>Bắt đầu Chat</a>&quot;;
+    var f_chat_star_4 = &quot;Chú ý: Bạn phải đăng nhập <a href='http://facebook.com/' rel='nofollow' target='_blank'>Facebook</a> mới có thể trò chuyện.&quot;;
+    var f_chat_fanpage = &quot;Canho5s.com&quot;; /* Đây là địa chỉ Fanpage*/
+    var f_chat_background_title = &quot;#F77213&quot;; /* Lấy mã màu tại đây http://megapixelated.com/tags/ref_colorpicker.asp */
+    var f_chat_color_title = &quot;#fff&quot;;
+    var f_chat_cr_vs = 21; /* Version ID */
+    var f_chat_vitri_manhinh = &quot;right:10px;&quot;; /* Right: 10px; hoặc left: 10px; hoặc căn giữa left:45% */    
+</script>
+<!-- $Chat iCon Font (có thể bỏ) -->
+<link href='https://raw.github.com/manhsam123/cssjs/master/font-awesome.min.css' rel='stylesheet' type='text/css'/>
+<!-- $Chat Javascript (không được xóa) -->
+<script src='https://rawgithub.com/linhfaceseo/livechatfb/master/blogger.js'/>
+<!-- $Chat HTML (không được xóa) -->
+<div id='fb-root'/>
+<a class='chat_f_vt' id='chat_f_b_smal' onclick='chat_f_show()' title='Mở hộp Chat'><i class='fa fa-comments title-f-chat-icon'/> Chat</a><div class='chat_f_vt' id='b-c-facebook'><div class='chat-f-b' id='chat-f-b' onclick='b_f_chat()'><i class='fa fa-comments title-f-chat-icon'/><label id='f_chat_name'/><span id='fb_alert_num'>1</span><div id='t_f_chat'><a class='chat-left-5' href='javascript:;' id='chat_f_close' onclick='chat_f_close()'>x</a></div></div><div class='f-chat-conent' id='f-chat-conent'><script>document.write(&quot;<div class='fb-page' data-adapt-container-width='true' data-height='310' data-hide-cover='true' data-href='https://www.facebook.com/&quot;+f_chat_fanpage+&quot;' data-show-facepile='false' data-show-posts='true' data-small-header='true' data-tabs='messages' data-width='250'/>&quot;);</script><div id='fb_chat_start'><div class='msg_b fb_hide' id='f_enter_1'/><div class='msg_b fb_hide' id='f_enter_2'/><br/><p align='center' class='fb_hide' id='f_enter_3'><a href='javascript:;' id='f_bt_start_chat' onclick='f_bt_start_chat()'>Bắt đầu Chat</a></p><br/><p align='center' class='fb_hide' id='f_enter_4'/></div><div class='chat-single' id='f_chat_source'/></div></div>
+<!-- #CHAT -->
