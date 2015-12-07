@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://www.canho5s.com/dat-nen-nam-khang-thong-tin-chinh-thuc-chu-dau-tu.html' target='_blank'><img src='http://www.canho5s.com/wp-content/themes/wt_metro/images/banner-top.jpg' width='500px'/>Đất Nền Nam Khang</a>. Canho5s.com. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://www.canho5s.com/ban-dat-quan-9-dat-nen-quan-9-dat-nen-gia-re.html' target='_blank'><img src='http://www.canho5s.com/wp-content/themes/wt_metro/images/banner-top.jpg' width='500px'/>Đất Nền Quận 9</a>. Canho5s.com. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
